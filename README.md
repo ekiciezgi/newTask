@@ -2,10 +2,6 @@
 
 ## React Course
 
-## Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
 ## Run App
 
 - if you get an error, run the commands separately
